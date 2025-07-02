@@ -3,6 +3,8 @@
 
 ![WechatIMG392](https://github.com/user-attachments/assets/28167307-528a-40fe-ad51-05c9b40d962a)
 
+服务端交互脚本：
+![image](https://github.com/user-attachments/assets/5427198c-5093-4f7d-9c60-2e7835435a02)
 
 
 ⏺ Solana MEV Bot - 优化版
